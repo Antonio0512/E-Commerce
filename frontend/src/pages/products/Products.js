@@ -1,3 +1,3 @@
-export const Products = () => {
-    
-};
+import "./products.css";
+
+export const Products = () => {};
